@@ -27,3 +27,4 @@ square.addEventListener("transitionend", ()=>{
         square.style.transform = "rotate(360deg)"
     }
 })
+
